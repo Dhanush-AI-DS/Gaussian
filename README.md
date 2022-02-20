@@ -8,10 +8,16 @@ To write a program to find the solution of a matrix using Gaussian Elimination.
 2. Anaconda – Python 3.7 Installation / Moodle-Code Runner
 
 ## Algorithm
-1. 
-2. 
-3. 
-4. 
+1. find the entry in the left column with largest absolute value.This entry is called pivoting.
+
+2.perform the row interchange if necessary.so,that pivot in the first row
+
+3.divide the first row by pivot
+
+4.use elenmentary row operation to reduce the remaining enteries in the first column to zero .
+ 
+ 
+ 
 
 ## Program:
 ```
